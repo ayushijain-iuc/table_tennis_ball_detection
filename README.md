@@ -4,10 +4,7 @@ This project uses OpenCV and computer vision techniques to detect and track a ta
 
 Based on dataset https://www.kaggle.com/datasets/ketzoomer/table-tennis-ball-position-detection-dataset
 
-Team members:<br>
-    <li>Hanna Sholotiuk
-    <li>Dmytro Broska 
-    <li>Serhii Lukianchenko
+
 
 It is not optimized for extended use. Instead, it showcases an idea of how OpenCV and computer vision can in a simple way be applied to analyze table tennis games.
      
@@ -18,7 +15,7 @@ It is not optimized for extended use. Instead, it showcases an idea of how OpenC
 
 ## Overview
 
-* **dataset_analysis** - Contains notebooks with scripts for analysing dataset
+
 
 * **detection_and_tracking_methods** - Scripts that overview different methods of detection and tracking table tennis ball.
 
